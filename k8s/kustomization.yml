@@ -12,6 +12,7 @@ resources:
 - todo-api-service.yml
 - prometheus-deployment.yml
 - prometheus-service.yml
+- prometheus-configmap.yml
 - grafana-deployment.yml
 - grafana-service.yml
 - ingress.yml
