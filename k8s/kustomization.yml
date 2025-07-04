@@ -10,7 +10,7 @@ resources:
 
 images:
 - name: osza/todo-api
-  newTag: latest
+  newTag: a5a80aab18c9a906917b406f62c5cb2531ab9cc5
 
 commonLabels:
   app: todo-api
