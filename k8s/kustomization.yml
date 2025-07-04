@@ -14,6 +14,7 @@ resources:
 - prometheus-service.yml
 - grafana-deployment.yml
 - grafana-service.yml
+- ingress.yml
 
 images:
 - name: osza/todo-api
