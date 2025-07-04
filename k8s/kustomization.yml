@@ -4,9 +4,9 @@ kind: Kustomization
 namespace: todo-app
 
 resources:
-- namespace.yaml
-- deployment.yaml
-- service.yaml
+- app-namespace.yml
+- app-deployment.yml
+- app-service.yml
 
 images:
 - name: osza/todo-api
